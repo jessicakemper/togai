@@ -1,0 +1,181 @@
+.woocommerce form .form-row .required { visibility: visible; }
+
+                                                    .header_mid .header_mid_inner .logo_wrap {
+                                                        width : 155px;
+                                                    }
+
+.header_mid_inner .logo img.logo_retina {
+    width : 155px;
+}
+
+
+.headline_outer {
+    background-image:url(https://sushico.cmsmasters.net/wp-content/uploads/2018/09/heading.jpg);
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    background-size:cover;
+}
+
+.headline_color {
+    background-color:rgba(50,51,56,0);
+}
+
+.headline_aligner,
+.cmsmasters_breadcrumbs_aligner {
+    min-height:380px;
+}
+
+
+.header_top {
+    height : 32px;
+}
+
+.header_mid {
+    height : 135px;
+}
+
+.header_bot {
+    height : 92px;
+}
+
+#page.cmsmasters_heading_after_header #middle,
+#page.cmsmasters_heading_under_header #middle .headline .headline_outer {
+    padding-top : 135px;
+}
+
+#page.cmsmasters_heading_after_header.enable_header_top #middle,
+#page.cmsmasters_heading_under_header.enable_header_top #middle .headline .headline_outer {
+    padding-top : 167px;
+}
+
+#page.cmsmasters_heading_after_header.enable_header_bottom #middle,
+#page.cmsmasters_heading_under_header.enable_header_bottom #middle .headline .headline_outer {
+    padding-top : 227px;
+}
+
+#page.cmsmasters_heading_after_header.enable_header_top.enable_header_bottom #middle,
+#page.cmsmasters_heading_under_header.enable_header_top.enable_header_bottom #middle .headline .headline_outer {
+    padding-top : 259px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .header_top,
+    .header_mid,
+    .header_bot {
+        height : auto;
+    }
+
+    .header_mid .header_mid_inner > * {
+        height : 135px;
+    }
+
+    #page.cmsmasters_heading_after_header #middle,
+    #page.cmsmasters_heading_under_header #middle .headline .headline_outer,
+    #page.cmsmasters_heading_after_header.enable_header_top #middle,
+    #page.cmsmasters_heading_under_header.enable_header_top #middle .headline .headline_outer,
+    #page.cmsmasters_heading_after_header.enable_header_bottom #middle,
+    #page.cmsmasters_heading_under_header.enable_header_bottom #middle .headline .headline_outer,
+    #page.cmsmasters_heading_after_header.enable_header_top.enable_header_bottom #middle,
+    #page.cmsmasters_heading_under_header.enable_header_top.enable_header_bottom #middle .headline .headline_outer {
+        padding-top : 0 !important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .header_mid .header_mid_inner > *,
+    .header_bot .header_bot_inner > * {
+        height:auto;
+    }
+}
+
+
+.header_mid .header_mid_inner .mid_nav_wrap  {
+    padding-right : 117px;
+}
+
+.header_mid .header_mid_inner .mid_nav_wrap_additional  {
+    padding-left : 117px;
+}
+                                                     #cmsmasters_row_9b9a23fc23 .cmsmasters_row_outer_parent {
+                                                         padding-top: 60px;
+                                                     }
+
+
+
+#cmsmasters_heading_019c5ce86d {
+    text-align:left;
+    margin-top:10px;
+    margin-bottom:40px;
+}
+
+#cmsmasters_heading_019c5ce86d .cmsmasters_heading {
+    text-align:left;
+}
+
+#cmsmasters_heading_019c5ce86d .cmsmasters_heading, #cmsmasters_heading_019c5ce86d .cmsmasters_heading a {
+}
+
+#cmsmasters_heading_019c5ce86d .cmsmasters_heading a:hover {
+}
+
+#cmsmasters_heading_019c5ce86d .cmsmasters_heading_divider {
+}
+
+
+
+#cmsmasters_divider_015c88ef02 {
+    border-bottom-width:1px;
+    border-bottom-style:solid;
+    margin-top:50px;
+    margin-bottom:65px;
+}
+#cmsmasters_row_9991790c66 .cmsmasters_row_outer_parent {
+    padding-top: 0px;
+}
+
+#cmsmasters_row_9991790c66 .cmsmasters_row_outer_parent {
+    padding-bottom: 90px;
+}
+
+
+
+#cmsmasters_heading_427b55f5c7 {
+    text-align:left;
+    margin-top:0px;
+    margin-bottom:50px;
+}
+
+#cmsmasters_heading_427b55f5c7 .cmsmasters_heading {
+    text-align:left;
+}
+
+#cmsmasters_heading_427b55f5c7 .cmsmasters_heading, #cmsmasters_heading_427b55f5c7 .cmsmasters_heading a {
+}
+
+#cmsmasters_heading_427b55f5c7 .cmsmasters_heading a:hover {
+}
+
+#cmsmasters_heading_427b55f5c7 .cmsmasters_heading_divider {
+}
+
+
+
+
+#cmsmasters_heading_32d24db7ee {
+    text-align:left;
+    margin-top:0px;
+    margin-bottom:50px;
+}
+
+#cmsmasters_heading_32d24db7ee .cmsmasters_heading {
+    text-align:left;
+}
+
+#cmsmasters_heading_32d24db7ee .cmsmasters_heading, #cmsmasters_heading_32d24db7ee .cmsmasters_heading a {
+}
+
+#cmsmasters_heading_32d24db7ee .cmsmasters_heading a:hover {
+}
+
+#cmsmasters_heading_32d24db7ee .cmsmasters_heading_divider {
+}
